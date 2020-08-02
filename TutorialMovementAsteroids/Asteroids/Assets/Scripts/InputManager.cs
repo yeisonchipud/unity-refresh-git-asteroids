@@ -33,6 +33,7 @@ public class InputManager : MonoBehaviour
 
         get{return Input.GetKey(KeyCode.Return);
         
+        print("github");
         }
 
     }
