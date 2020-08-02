@@ -34,7 +34,7 @@ public class InputManager : MonoBehaviour
         get{return Input.GetKey(KeyCode.Return);
         
                 
-        print("v1");
+        print("v1 aaprovado");
 
         }
 
