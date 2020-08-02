@@ -31,8 +31,11 @@ public class InputManager : MonoBehaviour
 
      public static bool fire{
 
-        get{return Input.GetKey(KeyCode.Intro);
+        get{return Input.GetKey(KeyCode.Return);
         
+                
+        print("v1");
+
         }
 
     }
